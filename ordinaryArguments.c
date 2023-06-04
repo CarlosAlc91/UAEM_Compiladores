@@ -1,3 +1,7 @@
+/*
+? Acontinuacion se muestra un programa sencillo en C que ilustra la diferencia entre argumentos ordinarios, que son pasados por valor, y argumentos puntero, que son pasados por referencia.
+*/
+
 #include <stdio.h>
 
 void func1(int u, int v);     /* prototipo de funcion */
